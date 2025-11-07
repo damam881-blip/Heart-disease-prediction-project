@@ -90,5 +90,3 @@ Trained and compared 4 classification models (Logistic Regression, Decision Tree
     streamlit run ui/app.py
     ```
 ---
-
-## 📂 Project Structure
